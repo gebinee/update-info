@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "notes": "欢迎使用 gebinee 单词数据库编辑器~",
+  "pub_date": "2026-07-21T17:28:17.047Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcERtV3hwdGhpVmxNMkFvTmttY2JFWGtMYlJQTktGd0xINnA1VjJrZTdMVWI4UGppOWZOVWZxVUdzMnhVM2RrT0xKR21QQ1NvTFhwWEVBZ2xCTHgxL2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQ1NzU1CWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4wLjBfeDY0LXNldHVwLmV4ZQpWdXRCamFUR2VQaWZWYmhYYTkwaVJOWXl0ZUkxeDVkL2J5SmNEdUswNHR1dEJXd2JjV0R0Tlo1d2h4YXhZMGlxenc2bkQ4RVQrMGlnU0hodGhkdDlDQT09Cg==",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/database-editor/releases/download/v1.0.0/gebinee-database-editor_1.0.0_x64-setup.exe"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEdXRmlJdWo4NEc4OEhGRVhMMHdPckNnS29USnkxcFMxazh6bjJabGZnNzU2NTByNVljYTA0dDhTaWEvaW1HQWxMTUM4OE9KdnhOek9zcWcvZEphR2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQ1NjY1CWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4wLjBfYXJtNjQtc2V0dXAuZXhlCmtMcm5IN0c2V212NHV1TnNZOTRiTHRPV3h1UVhuT3hUd1JSMzlSditIUnJUY1ptQithYktqV1lPb2xxNDhwWUlZVDNza1poMDB1VnV6Rjdjc1M4ZkNBPT0K",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/database-editor/releases/download/v1.0.0/gebinee-database-editor_1.0.0_arm64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEgzYVZDY0xoc3ZHTmNOTk5pem1TZzNpemVRMWlOMmlTRXhqWVhCVFVlUkpDUkpBOFFtUzYrTHd2M0J5L0lwVzZYYVVyNmtCa1kvSlVvVDFXTG9mVHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQ1NTY1CWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4wLjBfYW1kNjQuQXBwSW1hZ2UKT3JQNWJ0SVpZT0Q5YlNleFdtaEhwVjU5U0pwY1FvbmJKSXB1ckFHRG5mOHZKdHhDRGx6RWg5bHhQVzJhQWg2TnN4L0pJWnE1WHVESCtvRmtSbjVyQ1E9PQo=",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/database-editor/releases/download/v1.0.0/gebinee-database-editor_1.0.0_amd64.AppImage"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcExqOCs3NzZ4NHJYcWpid3BTckRycTFmZE9QWkU1Tm9oNWhhR3pEb2VSbDk0WHppOXZoRkpaRm9LL25TenZKQ3VPSVZ0YTRSYUNac1ozdzZIWWZUMWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQ1NTgxCWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4wLjBfYWFyY2g2NC5BcHBJbWFnZQpjaW0xdTRjOWhzTWpSM1dzY3E0V0pyMGxmODFBSjJYenAzUlBPVmdLMkh2OGZ6TzduTDVkVGhRODgyUDdWU1hVS2Z6WDRBdmI5MFM0NEQwcUFmVUJCZz09Cg==",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/database-editor/releases/download/v1.0.0/gebinee-database-editor_1.0.0_aarch64.AppImage"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEJiYUp0eTJpbVRaVHhmNzdrUkIxQUxPT1lEc1pENU5LVWtjK3BON0h4RXhWR2huVThZUEVmY0w5b3YyUHp5Z25uQVNxTTZ6STBEeGtudENDYmxJcUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQ1ODUxCWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3IuYXBwLnRhci5negpsZEJCci9KSmh5WFFyemxyUWZjYWpaVGRmUG5JdStyMkw5UDk2NFg2WkZMS21QbjBiYm1NbkxGZE95SnIzT1g5aEZMdG5ZQlVMWWVtcEJhejZNVUdCZz09Cg==",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/database-editor/releases/download/v1.0.0/gebinee-database-editor_1.0.0_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEk3aDg3cG9KZy9SM3IxWlFqdzU3MHQ2NlhPN2N1TXVaYjVZVkNUOHpzRWlvTHhNeE5YcFI4ajlhdVMrWE1pT0ZoaFdrTkNjNFVEaTBpTVFqQmh0VndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQ1NTI4CWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3IuYXBwLnRhci5negpFZWhTS3BXQlRUTHErS1Q0WG1qVUNzU3lPVThPRlUyNXhTZWZ4OCsybFpXZHNqQzRIVFZ4c0srelZaVWJzV2pZRGpuUUUrZzluM3hjMjhlNWlHZTVCUT09Cg==",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/database-editor/releases/download/v1.0.0/gebinee-database-editor_1.0.0_aarch64.app.tar.gz"
+    }
+  }
+}
