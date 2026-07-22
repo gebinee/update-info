@@ -1,0 +1,31 @@
+{
+  "version": "1.1.0",
+  "notes": "### ✨ 新增功能\n- 支持分别设置中西文字体样式\n- 丰富了内置字体库\n\n### 🚀 优化改进\n- 重做“从 Excel 导入”功能。现在，点击此按钮后将弹出独立应用弹窗，并有更精美的界面\n\n### 👙 界面样式\n- 统一按钮样式",
+  "pub_date": "2026-07-22T15:28:48.715Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEtHdStNdy93ZU9Tem9QcWZ0eXh6Uk9CMVI4L3Z3c2VMZW13c1RLRE9ZbjNMR1JnMEpNQVF0MEx4TWZNUDhFRnVEUkVnOWE4clpKdVQzUzV1djhsbFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzI5ODUyCWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4xLjBfeDY0LXNldHVwLmV4ZQo4UnRhU1JZNmJndHd1d2IxK0tkK2FaeStHUUlPWlVLcDdDVWt5U1B4ZllpbzM2bTB3OXpnL0ZjenAyQ3JDcytTMWZiT1ovazNTMHU2Z1llWkk4MkpDQT09Cg==",
+      "url": "https://github.com/gebinee/database-editor/releases/download/v1.1.0/gebinee-database-editor_1.1.0_x64-setup.exe"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcE8xSHZXVGw5bHM5R2paYlBPN0d4SktzR2tLeGZiQVFNVHYxeTZCVThqdktKZXdSQk1JdFhxZmNBRlVWTTJtelVzL1VYQ1hhdGNnaXdORytFVkhEcnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzI5ODg0CWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4xLjBfYXJtNjQtc2V0dXAuZXhlCjB3bUh0VjlsdFluU0dFZ3YxdTUyb0N5U3pNc0tGNEtKN0JuZ3gwZ0d1Wjk0cmlHTUhDcVBpL1hvZVlUZDB0UjQ0YmVDYXVFdHNlalZYNHNIVUlqRERRPT0K",
+      "url": "https://github.com/gebinee/database-editor/releases/download/v1.1.0/gebinee-database-editor_1.1.0_arm64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcE9zcXNvZU9lNmVzcEJrOTRkT3Ryb0FIVlZmc1d4QmlPZVFjUGdaanNXKytISGZOOWVjeVpOOEwyOWludXdQWThVd1RQZU9xaG5IK0ttMHRsRU5WWGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzI5NzAwCWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4xLjBfYW1kNjQuQXBwSW1hZ2UKdE9za3lMbTFPMEY2TjIyR0tnQzFwZGNzNmhoNGwyV2ZWWEg3UUxJaUltTGJYdlFKTlU3STB4S3M5MUJIZzJ5Y0RFQ0JuMkd2Mm85elBRWEhMbkRRREE9PQo=",
+      "url": "https://github.com/gebinee/database-editor/releases/download/v1.1.0/gebinee-database-editor_1.1.0_amd64.AppImage"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEtGTmtsc2pkaGhxR0F2QjBLMEh1Snh4WENWK1NEemFlWVZQaHdJKzlCU09temRTSkRWQkNUaDZTMytLam9aNGFKdjUrVzlNdmxvQ1M1R2pYdHlKWGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzI5NjgzCWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3JfMS4xLjBfYWFyY2g2NC5BcHBJbWFnZQpwWVJVakZvNWd5Y1ZucVNOcEkwOWd5QnhXbDZRZXJ6MGluTmc3bGI1TjFrSkxPQ01ZMjNPczJHZkhjLy9JL2NHak1jdjllZ0JUZEw4WEQvdDRaTTRCUT09Cg==",
+      "url": "https://github.com/gebinee/database-editor/releases/download/v1.1.0/gebinee-database-editor_1.1.0_aarch64.AppImage"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEZVS0RmMS81VkZiQVFOUkhNWTd3M091ZEZDeVNYdHRDWnhUaEs4R1NZRm85dU02Mm9wZXM4eG9kM1Fhb0d3UWpmTWMvSnhBVkR2Qmw3L2Ewd0hmU2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzMwMDU5CWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3IuYXBwLnRhci5negpjT0tlNlE4QVBudWNqK1VqUEJ5TVoyN2tXY2ZRalhCcEFuS3ZRbmJkY204QzBwbkN0NDBCTzlObzBIb0JSNXN4TExGTVdYUGpLTm1WM0p2RG5XeWZEZz09Cg==",
+      "url": "https://github.com/gebinee/database-editor/releases/download/v1.1.0/gebinee-database-editor_1.1.0_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR0NiYkdObHRzcEF4aFVlNU9Nb0Uwa09jU0NuWHJjNk9lVXB1SjZkVmYvNk5jM2w3Skt5MWVoWTFDdFlUWktDb2tnVEhlcjRJZFNkOFVQOXdVSHdXRGtPdEl6UVlNV0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzI5NjQ2CWZpbGU6Z2ViaW5lZS1kYXRhYmFzZS1lZGl0b3IuYXBwLnRhci5negpHTE1HeGVMeWFZZTI0Q09VODB3bnZ2aWU4OXR2NWw5dFR0QWt4S3VnK2h5SytabXpWS1laaE80blYvaDJndjNQclZpeFB0MXplc3J3RU5YeVZHU3ZCUT09Cg==",
+      "url": "https://github.com/gebinee/database-editor/releases/download/v1.1.0/gebinee-database-editor_1.1.0_aarch64.app.tar.gz"
+    }
+  }
+}
