@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "notes": "欢迎使用 gebinee 注音软件~",
+  "pub_date": "2026-07-22T16:26:06.496Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweEZQU3ZJb1JqY0cwbWx5T2RjcTJXeHRLNHM3STM2OG9GaHc1eUd6Qmg2TnpLbnowRWNuaWxjR0RlckJIQ2dwaU5BcVBEY3krUm5leDFibVg1MTE0QkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM3NTMyCWZpbGU6Z2ViaW5lZV8xLjAuMF94NjQtc2V0dXAuZXhlCmt2UTlhRE8vVTJXNDBaN3djbXYreHUwa2JnYzVibjRVSkEzUUtUSVVmWjhZWGN3QUNvM3FuRlAyQjBNMCsyaktMaUFhcVQxZUl4Z2RJdVZVMWYvNUFBPT0K",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/gebinee/releases/download/v1.0.0/gebinee_1.0.0_x64-setup.exe"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweEFPNms2WGcvby9WMk90VUxjY2hVRmY4SWpsT2ZsVlNKbm93aXJ3MkRQaEtyQUdiZ2d2aGh4dFhMMGJ4Lzk0ZGFkTHpSaldVU1hrZmRrSWpacCtSU3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM3NDUwCWZpbGU6Z2ViaW5lZV8xLjAuMF9hcm02NC1zZXR1cC5leGUKK1h4b2VSU29VNDQ3RzZwMDVVclhNMXVwTkI0bi9KVDNNQzZsRGxoeVZsTWVRV0VHVHZoM0wzUVFJZitmQjM0N2NBZDVwenp3YSs5aVBON25NZjZ5Q1E9PQo=",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/gebinee/releases/download/v1.0.0/gebinee_1.0.0_arm64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweER6TWxSUDM4bVN5RklDMXR6OCtKRXVOZWlEVnBjcTJ3OVpLbGFLQ1ZvN0xudjNmS2tQL1V6UUNKdGFVUTFWdVh3L3NmalIvU1p0MXl6ZVlzWk8xOEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM3NDU1CWZpbGU6Z2ViaW5lZV8xLjAuMF9hbWQ2NC5BcHBJbWFnZQo4dHZxek9yWFh6aXBqVHc2R0xJK0ZsUUdldFkyeE9OZ0R3OFVma2taOTE4bnNOc3BWaU5MaUlmck1uU29LNEUra2F4M3QxYlp2aDhYMDlERkNkK0RCdz09Cg==",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/gebinee/releases/download/v1.0.0/gebinee_1.0.0_amd64.AppImage"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweEZVdTl3N3dFSGhHTm93NzMrQ0luaFFiZCt0MUhLT1RGM0VvVFh2QWk4YTV4UEdhUENjaGtJTUs0KytldGxCM096MEx4QzV3NWppSFd4S21FTytuZ2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM3MzczCWZpbGU6Z2ViaW5lZV8xLjAuMF9hYXJjaDY0LkFwcEltYWdlCkI0ZDhoZFJPQjFiZm5qaG1sRVZWeEFrdFBtMTZUQ2M4YktIajl5Ui9UZUM4bnFwSURjandwY2R0dVhkc3R2N1lQMkFYdGxUY1pGcWc2WVNQR2g0RkRRPT0K",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/gebinee/releases/download/v1.0.0/gebinee_1.0.0_aarch64.AppImage"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweElXRmw3Z0QwbXJoTHN2S1EwczFmTUM0NklQZDRHaHRNRjdUYUN4MVJibkZaRjdCZFBXQWNCT09YZVBnUGpYaGZFT3diK2FFdm9Xb1U1QlFrNFRBMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM3NDczCWZpbGU6Z2ViaW5lZS5hcHAudGFyLmd6CmU2QWp0RFBEeTIxMDJqQ2VzdG1QN2lWZUJPVG02bkxNRkRzbTErUTl4TGZhelpKbERsUDNaRERYa0NQWDFudElmeXBUNFVLZERtVlV6ODd1WFVGaEF3PT0K",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/gebinee/releases/download/v1.0.0/gebinee_1.0.0_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweE5HNnVlY3RqSk1UbHhQck9UbWpjeW1JY3Zva1RnRnJLdHMwa0JCUzZQVERabUx2U0VkekcrNVMwbTduaUxMeUtPdmJrTHBDR3UzdGhZZTNEa0FSS1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzM3MjYwCWZpbGU6Z2ViaW5lZS5hcHAudGFyLmd6CnZIVlI0dGhkbXNrZ1cyTlNpTzg3NlBLY1Vodk9iZVhZSnYwTWZyNC94NWdDNnFzR3FURnEzMVlrU3dNSzkzMHd4cWduamVDOVJFaGlPSWVyY1dmUERRPT0K",
+      "url": "https://gh-proxy.org/https://github.com/gebinee/gebinee/releases/download/v1.0.0/gebinee_1.0.0_aarch64.app.tar.gz"
+    }
+  }
+}
