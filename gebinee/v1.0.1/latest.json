@@ -1,0 +1,31 @@
+{
+  "version": "1.0.1",
+  "notes": "### 👙 界面样式\n- 重做应用图标，不再使用 tauri 默认图标\n- 重做卸载程序图标，不再使用 nsis 默认图标",
+  "pub_date": "2026-07-28T18:43:17.653Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweE5EZ2xPQS83TG8yekxzS1BCeXBGNVRETXAwT1RXMjk5dXI3dHArakFEWEt4NnEyOEhQRk81bElKbUpGNUdETnIzM3B0UGRESkFUMjhEb2drM3FHdkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjYzODM1CWZpbGU6Z2ViaW5lZV8xLjAuMV94NjQtc2V0dXAuZXhlCnJCRHk4YjNsa1hqWENHNU9IYW1YcmpUYWZ4VmV6S0hsUHlsVWFreFhtRUlWYWxXNHVBRy91R0FyVUIxVzFzZzZ4MVh3L1hBb1JFVEVTdDkrS1FobERBPT0K",
+      "url": "https://github.com/gebinee/gebinee/releases/download/v1.0.1/gebinee_1.0.1_x64-setup.exe"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweExKdU92UTg3Z0l1a2ZSaVBhYUlOVnR4T0dnWHkzV3BEY0t3QXg4NHNQZG5nRUgrdlhFRExWbUVleG1oa0hDUUtBT0Y3anNJamJIVDN3QnJmTU1YbVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjYzOTE2CWZpbGU6Z2ViaW5lZV8xLjAuMV9hcm02NC1zZXR1cC5leGUKZ0ptMTZMN25Fb2o2VEdoL1BmOVV6TDcxVGsyWit5VTAyTVhvNkI2bmpScVpEV2hPbWYra21uOHJ6VGs3RXdtU1crbzZ6elZiUjVHaVRnaWZCWDNvQmc9PQo=",
+      "url": "https://github.com/gebinee/gebinee/releases/download/v1.0.1/gebinee_1.0.1_arm64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweE9FVU8ySWxGZFA2UGEyRU1mbVNYRndkci9LekNmQmlvY09DekYrZGIwSUFKVzNGMW1MV3U3cURXbzVIWm1Cb3JHOHN4QzZ3akM2RC9GWC9VUU1ia1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjYzODYwCWZpbGU6Z2ViaW5lZV8xLjAuMV9hbWQ2NC5BcHBJbWFnZQphOTl3b3M5RjNKRHRPamFyS2V6RTAyaDdJUHpZZHhDNHZXN014S3JTQXdZN2RSelpEVk8raUg0bVBHL2M0bTZ4dmNXbFZqS0RMektjNjd0dEpEU1FBUT09Cg==",
+      "url": "https://github.com/gebinee/gebinee/releases/download/v1.0.1/gebinee_1.0.1_amd64.AppImage"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweER0TnZvWEpWSWZBVllsYW5lZFVURk1TM2gzalJIbWF0K1NFWDVUNnJmOFdrSi9HdktDZ21MMHVwbkFYdDdiM2tFNzMySzlqYVBpSVExeDJPRFVmWXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjYzODI4CWZpbGU6Z2ViaW5lZV8xLjAuMV9hYXJjaDY0LkFwcEltYWdlCnhERVZYa2VIaWVQU3Vhamp4elNsZjlZVjI2K1IwRFlQdWtZc0Q0UGJxS1U0U0YwV0RqRmVhUE5JM3p2TGpTdXRZRXN4dlhDTHE3dWI4aC9xOWlFOENBPT0K",
+      "url": "https://github.com/gebinee/gebinee/releases/download/v1.0.1/gebinee_1.0.1_aarch64.AppImage"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweE5PMUM5a3IvQXRYVDRPZHg3WENRZmF0aTZCMks0b0RvYnUwVFRmcEkwTDh3ZitFcUZTeWhuald1czFXR0dyV25nWTh3dWJtY3BPRkJzN09xOUVlUVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjY0MTY0CWZpbGU6Z2ViaW5lZS5hcHAudGFyLmd6CkhBYVBKdW1JWjNhdnF5UlRSMHFSVEpZTjBUSWJBWHZscit3K0hPTEdibkVjTFlaWXZsUk5pN2Z2UURHTHlZMjZyRDFNL0E4MXAyK0FXYmFzMitFeERBPT0K",
+      "url": "https://github.com/gebinee/gebinee/releases/download/v1.0.1/gebinee_1.0.1_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmZqNFhCczZweEQ1U2J2aE9mWWljK2J1ZnRHVkhtQ2FXUTFUdFJuR0ZwVWdGVmJqWGMzeW5kUlhqUVFDZ1pCRVZuL0YvTzY3TnVQb2VzWkpqL2hvbXk0KzNURnFRREFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjYzODEzCWZpbGU6Z2ViaW5lZS5hcHAudGFyLmd6CmRWcGNlYmVpUEdFNU52WDQrUEFyZ25qQWswcnhQMlI3dzZ5Q21LdVlUeHdVeStHUGh4QU1XVGJqUUJKSkJhMWtxOGZjc1FQVUxiSjVqNVY4V28zU0RnPT0K",
+      "url": "https://github.com/gebinee/gebinee/releases/download/v1.0.1/gebinee_1.0.1_aarch64.app.tar.gz"
+    }
+  }
+}
